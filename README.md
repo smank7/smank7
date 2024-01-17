@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manvita Karuturi <br>
 
-Greetings! <br>
+Greetings! <br><br><br>
 I'm currently a graduate student pursuing a Master's degree in Information Systems at Northeastern University in Boston. <br>
 My journey in the field is shaped by a distinctive fusion of academic knowledge and practical experience. <br>
 Before my current academic pursuit, I served as a Network Engineer at Barclays, where I honed my skills and gained valuable insights into the intricacies of networking.<br>
