@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Manvita Karuturi <br>
+Hi 👋, I'm Santoshi Manvita Karuturi
+
+📫 Best way to reach me is smanvitak@gmail.com
 
 Greetings! <br><br>
 I'm currently a graduate student pursuing a Master's degree in Information Systems at Northeastern University in Boston. <br>
