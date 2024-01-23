@@ -1,4 +1,4 @@
-Hi there, I'm Santoshi 👋
+Hi there, I'm Santoshi 👋 <br>
 
 🎓 EDUCATION:<br>
 Master of Science in Information Systems, Northeastern University <br>
