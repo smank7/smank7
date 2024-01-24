@@ -21,15 +21,15 @@ I am a Master of Science in Information Systems student <img src="https://media.
 
 👩‍ Hello! I'm Santoshi Manvita, an enthusiastic Network Security professional with an interest in Full-stack development. Here's a glimpse into what defines me:
 
-- 🔧 As a Network Security Engineer, I design and implement measures to protect computer networks from cyber threats and unauthorized access.
-- 📊 On the Software Development side, I design, code, test, and maintain computer programs to meet specific requirements or solve particular problems.
-- 🌐 Bridging the gap between engineering and science, I bring a holistic approach to problem-solving and security-driven decision-making.
-- 🚀 With a passion for innovation, I constantly seek ways to optimize processes, enhance security quality, and drive actionable results.
-- 🤝 Collaborating with cross-functional teams, I leverage my technical expertise to deliver end-to-end solutions.
-- 📈 Network Security is my creative outlet, where I transform raw data into compelling visual narratives that empower stakeholders.
-- 🌱 Lifelong learning is my mantra, as I stay up-to-date with the latest advancements in security technologies and industry best practices.
-- 🎤 As a Toastmaster, I embrace the art of public speaking, effectively communicating data-driven insights to diverse audiences.
-- ⚡ Fun fact: I love finding patterns in Security protection and the world around me, from spotting hidden connections to discovering new hobbies!
+🔧 As a Network Security Engineer, I design and implement measures to protect computer networks from cyber threats and unauthorized access.<br>
+📊 On the Software Development side, I design, code, test, and maintain computer programs to meet specific requirements or solve particular problems.<br>
+🌐 Bridging the gap between engineering and science, I bring a holistic approach to problem-solving and security-driven decision-making.<br>
+🚀 With a passion for innovation, I constantly seek ways to optimize processes, enhance security quality, and drive actionable results.<br>
+🤝 Collaborating with cross-functional teams, I leverage my technical expertise to deliver end-to-end solutions.<br>
+📈 Network Security is my creative outlet, where I transform raw data into compelling visual narratives that empower stakeholders.<br>
+🌱 Lifelong learning is my mantra, as I stay up-to-date with the latest advancements in security technologies and industry best practices.<br>
+🎤 As a Toastmaster, I embrace the art of public speaking, effectively communicating data-driven insights to diverse audiences.<br>
+⚡ Fun fact: I love finding patterns in Security protection and the world around me, from spotting hidden connections to discovering new hobbies!<br>
 
 ### 🎓 Education
 - Northeastern University 
@@ -46,17 +46,14 @@ I am a Master of Science in Information Systems student <img src="https://media.
 ### 💻 Languages and Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=white" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
@@ -87,7 +84,7 @@ I am a Master of Science in Information Systems student <img src="https://media.
 
 ### 📞 Contact Me
 
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SivaranjaniSuresh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manvita-karuturi/)
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manvita-karuturi/)
 
 Feel free to connect with me on LinkedIn, and let's explore the fascinating world of data together!
 
