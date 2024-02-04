@@ -86,7 +86,7 @@ I am a Master of Science in Information Systems student <img src="https://media.
 
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manvita-karuturi/)
 
-Feel free to connect with me on LinkedIn, and let's explore the fascinating world of data together!
+Feel free to connect with me on LinkedIn, and let's explore the fascinating world of security together!
 
 You can also reach me at:
 📧 Email: karuturi.sa@northeastern.edu
