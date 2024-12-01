@@ -37,8 +37,10 @@ Certifications: CCNA (Cisco Netacad), Preparing for CCNP
 ### Security Concepts:
 Risk Management, Vulnerability Assessment, Incident Response, Cryptography, Network Troubleshooting
 Network Automation:
-### Tools: Ansible, Chef, Puppet, Terraform, Docker, NAPALM, Netmiko, Paramiko
-### Scripting: Python, Bash, TCL, Java, JavaScript, SQL
+### Tools: 
+Ansible, Chef, Puppet, Terraform, Docker, NAPALM, Netmiko, Paramiko
+### Scripting: 
+Python, Bash, Java, JavaScript, SQL
 ### Cloud & Big Data:
 1. Cloud Services: AWS, Microsoft Azure
 2. Big Data: Hadoop, Kafka, Snowflake
