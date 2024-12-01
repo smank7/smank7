@@ -19,17 +19,15 @@ I am a Master of Science in Information Systems student <img src="https://media.
  
 ### About Me
 
-👩‍ Hello! I'm Santoshi Manvita, an enthusiastic Network Security professional with an interest in Full-stack development. Here's a glimpse into what defines me:
+👩‍ Hello! I'm Santoshi Manvita, an enthusiastic network security professional who is passionate about using cloud technologies and full-stack development to enhance security. Here's a glimpse of what defines me:
 
-🔧 As a Network Security Engineer, I design and implement measures to protect computer networks from cyber threats and unauthorized access.<br>
-📊 On the Software Development side, I design, code, test, and maintain computer programs to meet specific requirements or solve particular problems.<br>
-🌐 Bridging the gap between engineering and science, I bring a holistic approach to problem-solving and security-driven decision-making.<br>
-🚀 With a passion for innovation, I constantly seek ways to optimize processes, enhance security quality, and drive actionable results.<br>
-🤝 Collaborating with cross-functional teams, I leverage my technical expertise to deliver end-to-end solutions.<br>
-📈 Network Security is my creative outlet, where I transform raw data into compelling visual narratives that empower stakeholders.<br>
-🌱 Lifelong learning is my mantra, as I stay up-to-date with the latest advancements in security technologies and industry best practices.<br>
-🎤 As a Toastmaster, I embrace the art of public speaking, effectively communicating data-driven insights to diverse audiences.<br>
-⚡ Fun fact: I love finding patterns in Security protection and the world around me, from spotting hidden connections to discovering new hobbies!<br>
+🔧 Network Security Engineer: I design and implement firewall measures, along with switch routing, to protect computer networks from cyber threats and unauthorized access.<br>
+📊 Cloud Development: I design, code, test, and maintain computer programs to meet specific requirements and solve complex problems.<br>
+🚀 Innovation Enthusiast: Constantly seeking ways to optimize processes, enhance security, and drive actionable results.<br>
+🤝 Team Collaborator: I leverage my technical expertise to deliver end-to-end solutions in collaboration with cross-functional teams.<br>
+🌱 Lifelong Learner: I stay up-to-date with the latest advancements in security technologies and industry best practices.<br>
+🎤 Toastmaster: As a Toastmaster, I embrace public speaking to effectively communicate data-driven insights to diverse audiences.<br>
+⚡ Fun Fact: I’m a serial investor always on the lookout for entrepreneurial adventures—my latest being Shezigs, which I co-founded.<br>
 
 ### 🎓 Education
 - Northeastern University 
