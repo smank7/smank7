@@ -29,17 +29,31 @@ I am a Master of Science in Information Systems student <img src="https://media.
 🎤 Toastmaster: As a Toastmaster, I embrace public speaking to effectively communicate data-driven insights to diverse audiences.<br>
 ⚡ Fun Fact: I’m a serial investor always on the lookout for entrepreneurial adventures—my latest being Shezigs, which I co-founded.<br>
 
-### 🎓 Education
-- Northeastern University 
-  - Boston, MA
-  - Master of Science in Information Systems
-  - Sep 2023 - Expected May 2025
-  - Courses: Network Structures and Cloud Computing, Application Engineering Development, Web Design and User Experience, Database Management and Database Design
+### Networking:
+1. Protocols: TCP/IP, OSPF, BGP, EIGRP, ACL, MPLS, LDP, RSVP, VPRN, VPLS, MP-BGP, SR-MPLS, Load Balancing, CDN, SNMP, FTP, HSRP, DHCP, DNS, ARP
+Tools: Cisco Packet Tracer, Wireshark, GNS3, Secure CRT, PuTTY, Fiddler, IXIA
+2. Technologies: Firewalls, VPN Tunneling, Switches, Routing Protocols, Penetration Testing
+Certifications: CCNA (Cisco Netacad), Preparing for CCNP
+### Security Concepts:
+Risk Management, Vulnerability Assessment, Incident Response, Cryptography, Network Troubleshooting
+Network Automation:
+### Tools: Ansible, Chef, Puppet, Terraform, Docker, NAPALM, Netmiko, Paramiko
+### Scripting: Python, Bash, TCL, Java, JavaScript, SQL
+### Cloud & Big Data:
+1. Cloud Services: AWS, Microsoft Azure
+2. Big Data: Hadoop, Kafka, Snowflake
+### Software Development:
+1. Languages: Python, Java, JavaScript, SQL, C/C++, TypeScript
+2. Frontend: HTML, CSS, SCSS, ReactJS, Angular, Redux, NextJS, Bootstrap
+3. Backend: React, Maven, NodeJS, ExpressJS
+### DevOps & CI/CD:
+1. Tools: Jenkins, Git, Docker
+2. Automation: CI/CD, Terraform
+### Monitoring & Collaboration Tools:
+1. Tools: Splunk, Git, Jira, Unix/Linux, Agile methodologies
+### Design Tools:
+Adobe XD, Figma, Photoshop, Illustrator
 
-- Malaviya National Institute of Technology
-  - Jaipur, India
-  - Bachelor of Technology in Electronics and Communication Engineering
-  - Aug 2017 – May 2021
 
 ### 💻 Languages and Tools
 
