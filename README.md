@@ -11,9 +11,7 @@
 
 
 ---
-### :woman_technologist: Intro
-
-I am a Master of Science in Information Systems student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Northeastern University, Boston. 
+### :woman_technologist
  
 ### About Me
 
