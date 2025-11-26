@@ -6,9 +6,7 @@
   <a href="https://www.linkedin.com/in/manvita-karuturi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ width="100"/>
   </a>
-  <a href="https://santoshimanvita.netlify.app/">
-    <img src="https://img.shields.io/badge/My-Portfolio-blue" alt="Medium Badge"/ width="100">
-  </a>
+ 
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=smank7j&label=Profile+Views&color=blueviolet)
