@@ -11,13 +11,12 @@
 
 
 ---
-### :woman_technologist
  
 ### About Me
 
 👩‍ Hello! I'm Santoshi Manvita Karuturi, a seasoned network engineer pioneering AI infrastructure at scale. Here's what defines my professional journey:
 
-🔧 AI Infrastructure Specialist: Building and optimizing network architectures for distributed AI/ML workloads at Together.ai, ensuring ultra-low latency and high throughput for model training and inference at scale.<br>
+🔧 AI Infrastructure Specialist: Building and optimizing network architectures for distributed AI/ML workloads, ensuring ultra-low latency and high throughput for model training and inference at scale.<br>
 📊  Senior Network Engineer: Architected enterprise networks serving 25,000+ users with 99.9% uptime, now applying this expertise to design resilient networks for GPU clusters and distributed computing environments.<br>
 🚀  High-Performance Computing: Expert in optimizing network fabric for AI workloads, including InfiniBand, RoCE, and high-bandwidth interconnects essential for multi-GPU training and model serving infrastructure.<br>
 🤝  Cloud & AI Platform Expert: Specialized in hybrid cloud deployments across AWS, Azure, and GCP, with deep understanding of GPU-accelerated instances, model deployment pipelines, and AI-specific networking requirements.<br>
@@ -47,16 +46,14 @@
 2. Traditional Tools: Prometheus, Grafana, CloudWatch, Datadog, ELK Stack, Splunk
 
 ### Fun Facts:
-🎤 Toastmaster: Effectively communicating complex AI infrastructure concepts to diverse audiences
-🚀 AI Pioneer: At the forefront of building next-generation infrastructure for AI/ML workloads
-🌱 Continuous Learner: Staying ahead with the rapidly evolving landscape of AI infrastructure and networking
+🎤 Toastmaster: Effectively communicating complex AI infrastructure concepts to diverse audiences <br>
+🚀 AI Pioneer: At the forefront of building next-generation infrastructure for AI/ML workloads<br>
+🌱 Continuous Learner: Staying ahead with the rapidly evolving landscape of AI infrastructure and networking<br>
 
 
 ### 📞 Contact Me
 
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manvita-karuturi/)
-
-Feel free to connect with me on LinkedIn, and let's explore the fascinating world of security together!
 
 
 
