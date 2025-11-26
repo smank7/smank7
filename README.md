@@ -9,7 +9,7 @@
  
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=smank7j&label=Profile+Views&color=blueviolet)
+
 ---
 ### :woman_technologist: Intro
 
@@ -17,82 +17,42 @@ I am a Master of Science in Information Systems student <img src="https://media.
  
 ### About Me
 
-👩‍ Hello! I'm Santoshi Manvita, an enthusiastic network security professional who is passionate about using cloud technologies and full-stack development to enhance security. Here's a glimpse of what defines me:
+👩‍ Hello! I'm Santoshi Manvita Karuturi, a seasoned network engineer pioneering AI infrastructure at scale. Here's what defines my professional journey:
 
-🔧 Network Security Engineer: I design and implement firewall measures, along with switch routing, to protect computer networks from cyber threats and unauthorized access.<br>
-📊 Cloud Development: I design, code, test, and maintain computer programs to meet specific requirements and solve complex problems.<br>
-🚀 Innovation Enthusiast: Constantly seeking ways to optimize processes, enhance security, and drive actionable results.<br>
-🤝 Team Collaborator: I leverage my technical expertise to deliver end-to-end solutions in collaboration with cross-functional teams.<br>
-🌱 Lifelong Learner: I stay up-to-date with the latest advancements in security technologies and industry best practices.<br>
-🎤 Toastmaster: As a Toastmaster, I embrace public speaking to effectively communicate data-driven insights to diverse audiences.<br>
-⚡ Fun Fact: I’m a serial investor always on the lookout for entrepreneurial adventures—my latest being Shezigs, which I co-founded.<br>
+🔧 AI Infrastructure Specialist: Building and optimizing network architectures for distributed AI/ML workloads at Together.ai, ensuring ultra-low latency and high throughput for model training and inference at scale.<br>
+📊  Senior Network Engineer: Architected enterprise networks serving 25,000+ users with 99.9% uptime, now applying this expertise to design resilient networks for GPU clusters and distributed computing environments.<br>
+🚀  High-Performance Computing: Expert in optimizing network fabric for AI workloads, including InfiniBand, RoCE, and high-bandwidth interconnects essential for multi-GPU training and model serving infrastructure.<br>
+🤝  Cloud & AI Platform Expert: Specialized in hybrid cloud deployments across AWS, Azure, and GCP, with deep understanding of GPU-accelerated instances, model deployment pipelines, and AI-specific networking requirements.<br>
+🌱 Security-First Architecture: Implementing Zero Trust frameworks for AI infrastructure, securing model endpoints, and ensuring data privacy in ML pipelines while maintaining 100% CIS/NIST compliance.<br>
+🎤  Infrastructure Automation: Reduced deployment times by 70-90% through IaC, CI/CD pipelines, and Python automation - now applying these skills to automate AI infrastructure provisioning and scaling.<br>
+⚡ Performance Optimization: Achieved 40% network performance improvements and 90% incident reduction through intelligent monitoring and architecture design - crucial for maintaining SLAs in AI/ML environments.<br>
 
-### Networking:
-1. Protocols: TCP/IP, OSPF, BGP, EIGRP, ACL, MPLS, LDP, RSVP, VPRN, VPLS, MP-BGP, SR-MPLS, Load Balancing, CDN, SNMP, FTP, HSRP, DHCP, DNS, ARP
-Tools: Cisco Packet Tracer, Wireshark, GNS3, Secure CRT, PuTTY, Fiddler, IXIA
-2. Technologies: Firewalls, VPN Tunneling, Switches, Routing Protocols, Penetration Testing
-Certifications: CCNA (Cisco Netacad), Preparing for CCNP
-### Security Concepts:
-Risk Management, Vulnerability Assessment, Incident Response, Cryptography, Network Troubleshooting
-Network Automation:
-### Tools: 
-Ansible, Chef, Puppet, Terraform, Docker, NAPALM, Netmiko, Paramiko
-### Scripting: 
-Python, Bash, Java, JavaScript, SQL
-### Cloud & Big Data:
-1. Cloud Services: AWS, Microsoft Azure
-2. Big Data: Hadoop, Kafka, Snowflake
-### Software Development:
-1. Languages: Python, Java, JavaScript, SQL, C/C++, TypeScript
-2. Frontend: HTML, CSS, SCSS, ReactJS, Angular, Redux, NextJS, Bootstrap
-3. Backend: React, Maven, NodeJS, ExpressJS
-### DevOps & CI/CD:
-1. Tools: Jenkins, Git, Docker
-2. Automation: CI/CD, Terraform
-### Monitoring & Collaboration Tools:
-1. Tools: Splunk, Git, Jira, Unix/Linux, Agile methodologies
-### Design Tools:
-Adobe XD, Figma, Photoshop, Illustrator
+### Technical Arsenal
 
+### AI Infrastructure & Networking:
+1. AI/ML Infrastructure: GPU cluster networking, distributed training architectures, model serving infrastructure
+2. High-Performance Networking: InfiniBand, RoCE, RDMA, NVLink, high-bandwidth interconnects
+3. Load Balancing: Traffic optimization for inference endpoints, model serving, and API gateways
 
-### 💻 Languages and Tools
+### Traditional Networking Excellence:
+1. Security: Palo Alto, Checkpoint, Fortinet, Cisco ASA, IDS/IPS, DLP, Network Segmentation
+2. Protocols: BGP, OSPF, EIGRP, TCP/IP, SD-WAN, MPLS, VLANs, QoS
+3. Hardware: Cisco (ASA, Nexus 7000, Catalyst), Juniper (QFX, SRX), Aruba, NVIDIA networking
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS"/>
-   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" alt="Stripe"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VScode"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white alt="C#"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
-    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk"/>
-  <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins"/>
-   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
-</p>
+### Cloud & DevOps:
+1. Platforms: AWS (EC2 P4d instances), Azure (ND series), GCP (A2/A3 VMs), GPU cloud providers
+2. Container Orchestration: Kubernetes with GPU scheduling, Docker, container networking for ML workloads
+3. Automation: Terraform, Ansible, Jenkins, GitHub Actions, ML-specific deployment tools
+   
+### Monitoring & Observability: 
+1. AI Metrics: GPU utilization, model latency, throughput monitoring
+2. Traditional Tools: Prometheus, Grafana, CloudWatch, Datadog, ELK Stack, Splunk
+
+### Fun Facts:
+🎤 Toastmaster: Effectively communicating complex AI infrastructure concepts to diverse audiences
+🚀 AI Pioneer: At the forefront of building next-generation infrastructure for AI/ML workloads
+🌱 Continuous Learner: Staying ahead with the rapidly evolving landscape of AI infrastructure and networking
+
 
 ### 📞 Contact Me
 
@@ -100,8 +60,6 @@ Adobe XD, Figma, Photoshop, Illustrator
 
 Feel free to connect with me on LinkedIn, and let's explore the fascinating world of security together!
 
-You can also reach me at:
-📧 Email: karuturi.sa@northeastern.edu
 
 
 <!---
